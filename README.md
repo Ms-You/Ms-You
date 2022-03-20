@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 #### I'm MyeonSu Yu who is dreaming of becoming a Back-End developer from South Korea.
-
+<!-- 
 - 🔭 I’m currently working on my projects named <a href="https://github.com/TravelToTravel"> travel to travel </a>
 - 🌱 I’m currently learning Django & Algorithms
-
+ -->
 
 ### Languages
 <div>
