@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 #### I'm MyeonSu Yu who is dreaming of becoming a Back-End developer from South Korea.
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ms-You&show_icons=true&theme=aura_dark)
+
 <!-- 
 - 🔭 I’m currently working on my projects named <a href="https://github.com/TravelToTravel"> travel to travel </a>
 - 🌱 I’m currently learning Django & Algorithms
  -->
-
 
 
 
